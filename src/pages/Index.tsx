@@ -165,6 +165,28 @@ const Index = () => {
       </section>
 
       {/* Newsletter */}
+      <section className="py-16 bg-white">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <h2 className="text-3xl font-bold mb-6 text-foreground">
+            Encuentra vuelos y viajes baratos desde España
+          </h2>
+
+          <p className="mb-4 text-muted-foreground">
+            En CholloTrip te ayudamos a encontrar los mejores chollos de vuelos baratos,
+            hoteles económicos y viajes de última hora desde España.
+          </p>
+
+          <p className="mb-4 text-muted-foreground">
+            Analizamos cientos de ofertas cada día para mostrarte oportunidades reales
+            de viajar más gastando menos.
+          </p>
+
+          <p className="text-muted-foreground">
+            Tanto si buscas escapadas baratas, vuelos low cost o vacaciones económicas,
+            aquí encontrarás guías y ofertas actualizadas constantemente.
+          </p>
+        </div>
+      </section>
       <Newsletter />
     </div>
   );
