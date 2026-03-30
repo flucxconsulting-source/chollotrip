@@ -5,7 +5,7 @@ import { blogPosts } from "@/content/blog";
 export default function BlogPost() {
   const { slug } = useParams();
   const post = blogPosts.find((item) => item.slug === slug);
-  
+
   useEffect(() => {
     if (!post) return;
 
@@ -60,6 +60,45 @@ export default function BlogPost() {
           "
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
+
+        <div className="mt-12 border-t pt-8">
+          <h3 className="text-xl font-bold mb-4">Sigue explorando</h3>
+
+          <ul className="space-y-2">
+            <li>
+              <a
+                href="/blog/vuelos-baratos-madrid-roma"
+                className="text-primary hover:underline"
+              >
+                ✈️ Vuelos baratos Madrid Roma
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/hoteles-baratos-barcelona-centro"
+                className="text-primary hover:underline"
+              >
+                🏨 Hoteles baratos en Barcelona centro
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/viajes-baratos-ultima-hora"
+                className="text-primary hover:underline"
+              >
+                🔥 Viajes baratos última hora
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/vuelos-baratos-estudiantes-europa"
+                className="text-primary hover:underline"
+              >
+                🎒 Vuelos baratos estudiantes Europa
+              </a>
+            </li>
+          </ul>
+        </div>
       </article>
     </main>
   );
