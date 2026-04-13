@@ -176,10 +176,28 @@ const Index = () => {
             hoteles económicos y viajes de última hora desde España.
           </p>
 
-          <p className="mb-4 text-muted-foreground">
+          <p className="mb-6 text-muted-foreground">
             Analizamos cientos de ofertas cada día para mostrarte oportunidades reales
             de viajar más gastando menos.
           </p>
+
+          {/* CTA to pillar article */}
+          <div className="bg-orange-50 border border-orange-200 p-6 rounded-xl mb-6">
+            <h3 className="text-xl font-bold mb-2 text-orange-600">
+              🔥 Guía completa para encontrar vuelos baratos
+            </h3>
+
+            <p className="mb-4 text-gray-700">
+              Descubre los trucos reales que utilizan los viajeros frecuentes para pagar menos en cada vuelo.
+            </p>
+
+            <a
+              href="/blog/como-encontrar-vuelos-baratos"
+              className="inline-block bg-orange-500 text-white px-5 py-2 rounded-lg font-semibold hover:bg-orange-600"
+            >
+              Ver guía completa →
+            </a>
+          </div>
 
           <p className="text-muted-foreground">
             Tanto si buscas escapadas baratas, vuelos low cost o vacaciones económicas,
