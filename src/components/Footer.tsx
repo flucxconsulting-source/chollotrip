@@ -13,11 +13,13 @@ const Footer = () => (
         </div>
 
         <p className="max-w-md text-sm text-muted-foreground">
-          Los mejores chollos de vuelos desde España. Actualizados cada día para que no te pierdas ninguna oferta.
+          CholloTrip es un sitio web independiente que recopila ofertas de vuelos,
+          hoteles y viajes baratos desde España. Nuestro objetivo es ayudarte a
+          ahorrar dinero en cada viaje mediante comparativas y guías prácticas.
         </p>
 
-        {/* LEGAL LINKS */}
-        <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground">
+        {/* LEGAL + TRUST LINKS */}
+        <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground mt-4">
           <Link to="/privacy" className="hover:underline">
             Privacidad
           </Link>
@@ -26,6 +28,9 @@ const Footer = () => (
           </Link>
           <Link to="/cookies" className="hover:underline">
             Cookies
+          </Link>
+          <Link to="/contacto" className="hover:underline">
+            Contacto
           </Link>
         </div>
 
