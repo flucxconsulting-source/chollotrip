@@ -71,6 +71,15 @@ export const articulo = {
       <li>Ignorar extras</li>
     </ul>
 
+    <h2>Profundiza con guías específicas</h2>
+    <p>Si quieres aplicar estos principios a un destino concreto, no te pierdas nuestra guía sobre
+      <a href="/blog/vuelos-baratos-roma-desde-espana">vuelos baratos a Roma desde España</a>,
+    con aeropuertos, fechas y precios actualizados para 2026.</p>
+
+    <p>Y si todavía no tienes destino claro, échale un ojo a la selección de los
+      <a href="/blog/mejores-destinos-baratos-europa-2026">mejores destinos baratos en Europa para 2026</a>
+    para encontrar inspiración con vuelos low cost.</p>
+
     <h2>Conclusión</h2>
     <p>Saber <strong>cómo encontrar vuelos baratos</strong> no es complicado si aplicas una estrategia clara.</p>
 

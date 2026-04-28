@@ -168,6 +168,14 @@ export const articulo = {
     <h3>¿Incluyen equipaje?</h3>
     <p>Normalmente solo una mochila o bolso pequeño. El resto suele pagarse aparte.</p>
 
+    <h2>Más rutas y destinos para ahorrar</h2>
+    <p>¿Sales desde otra ciudad española o quieres comparar otras combinaciones a Italia? Te interesa nuestra guía completa de
+      <a href="/blog/vuelos-baratos-roma-desde-espana">vuelos baratos a Roma desde España</a>,
+    con aeropuertos, precios orientativos y fechas óptimas para 2026.</p>
+
+    <p>Y si te apetece descubrir alternativas más allá de Roma, consulta nuestra selección de los
+      <a href="/blog/mejores-destinos-baratos-europa-2026">mejores destinos baratos en Europa para 2026</a>.</p>
+
     <h2>Conclusión</h2>
     <p>Conseguir vuelos baratos Madrid Roma no es cuestión de suerte, sino de estrategia.</p>
 

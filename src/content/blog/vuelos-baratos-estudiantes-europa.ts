@@ -104,6 +104,14 @@ export const articulo = {
       <li>Ignorar costes extra</li>
     </ul>
 
+    <h2>Inspiración para tu próximo destino</h2>
+    <p>Si todavía no tienes claro a dónde ir, te recomendamos echar un vistazo a nuestra guía con los
+      <a href="/blog/mejores-destinos-baratos-europa-2026">mejores destinos baratos en Europa para 2026</a>,
+    con ciudades, precios y consejos para ahorrar.</p>
+
+    <p>Y si Italia está en tu lista, te resultará útil la guía específica de
+      <a href="/blog/vuelos-baratos-roma-desde-espana">vuelos baratos a Roma desde España</a>.</p>
+
     <h2>Conclusión</h2>
     <p>Encontrar <strong>vuelos baratos estudiantes Europa</strong> es totalmente posible si sabes cómo hacerlo.</p>
 

@@ -75,6 +75,22 @@ export default function BlogPost() {
             </li>
             <li>
               <a
+                href="/blog/vuelos-baratos-roma-desde-espana"
+                className="text-primary hover:underline"
+              >
+                🇮🇹 Vuelos baratos a Roma desde España
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/mejores-destinos-baratos-europa-2026"
+                className="text-primary hover:underline"
+              >
+                🌍 Mejores destinos baratos en Europa 2026
+              </a>
+            </li>
+            <li>
+              <a
                 href="/blog/hoteles-baratos-barcelona-centro"
                 className="text-primary hover:underline"
               >
