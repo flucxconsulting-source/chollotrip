@@ -67,6 +67,30 @@ export default function BlogPost() {
           <ul className="space-y-2">
             <li>
               <a
+                href="/blog/vuelos-baratos-europa-2026"
+                className="text-primary hover:underline"
+              >
+                🛫 Vuelos baratos por Europa 2026
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/hoteles-baratos-madrid-2026"
+                className="text-primary hover:underline"
+              >
+                🏨 Hoteles baratos en Madrid 2026
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/escapadas-baratas-fin-de-semana"
+                className="text-primary hover:underline"
+              >
+                🗺️ Escapadas baratas de fin de semana
+              </a>
+            </li>
+            <li>
+              <a
                 href="/blog/vuelos-baratos-madrid-roma"
                 className="text-primary hover:underline"
               >

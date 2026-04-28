@@ -5,6 +5,9 @@ import { articulo as vuelosEstudiantes } from "./vuelos-baratos-estudiantes-euro
 import { articulo as comoEncontrarVuelos } from "./como-encontrar-vuelos-baratos";
 import { articulo as vuelosRomaEspana } from "./vuelos-baratos-roma-desde-espana";
 import { articulo as destinosBaratosEuropa2026 } from "./mejores-destinos-baratos-europa-2026";
+import { articulo as vuelosEuropa2026 } from "./vuelos-baratos-europa-2026";
+import { articulo as hotelesMadrid2026 } from "./hoteles-baratos-madrid-2026";
+import { articulo as escapadasFinDeSemana } from "./escapadas-baratas-fin-de-semana";
 
 export const blogPosts = [
   vuelosBaratosMadridRoma,
@@ -14,4 +17,7 @@ export const blogPosts = [
   comoEncontrarVuelos,
   vuelosRomaEspana,
   destinosBaratosEuropa2026,
+  vuelosEuropa2026,
+  hotelesMadrid2026,
+  escapadasFinDeSemana,
 ];
