@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chollotrip.com/sitemap.xml
+Sitemap: https://www.chollotrip.com/sitemap.xml
