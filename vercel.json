@@ -17,6 +17,11 @@
       "dest": "/assets/$1"
     },
     {
+      "src": "/(en|de|fr|it)(/.*)?",
+      "status": 301,
+      "headers": { "Location": "/" }
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
