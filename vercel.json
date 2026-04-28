@@ -1,29 +1,20 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/sitemap.xml",
-      "dest": "/sitemap.xml"
+      "source": "/:lang(en|de|fr|it)/:path*",
+      "destination": "/",
+      "permanent": true
     },
     {
-      "src": "/robots.txt",
-      "dest": "/robots.txt"
-    },
+      "source": "/:lang(en|de|fr|it)",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
     {
-      "src": "/favicon.ico",
-      "dest": "/favicon.ico"
-    },
-    {
-      "src": "/assets/(.*)",
-      "dest": "/assets/$1"
-    },
-    {
-      "src": "/(en|de|fr|it)(/.*)?",
-      "status": 301,
-      "headers": { "Location": "/" }
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
