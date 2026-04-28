@@ -1,4 +1,18 @@
 {
+  "headers": [
+    {
+      "source": "/:lang(en|de|fr|it)/:path*",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/:lang(en|de|fr|it)",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store, max-age=0, must-revalidate" }
+      ]
+    }
+  ],
   "redirects": [
     {
       "source": "/:lang(en|de|fr|it)/:path*",
