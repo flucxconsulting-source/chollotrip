@@ -67,6 +67,22 @@ export default function BlogPost() {
           <ul className="space-y-2">
             <li>
               <a
+                href="/blog/vuelos-baratos-ultima-hora"
+                className="text-primary hover:underline"
+              >
+                ⏰ Vuelos baratos última hora
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/hoteles-baratos-barcelona"
+                className="text-primary hover:underline"
+              >
+                🏨 Hoteles baratos en Barcelona
+              </a>
+            </li>
+            <li>
+              <a
                 href="/blog/vuelos-baratos-europa-2026"
                 className="text-primary hover:underline"
               >
