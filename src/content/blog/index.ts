@@ -10,6 +10,8 @@ import { articulo as hotelesMadrid2026 } from "./hoteles-baratos-madrid-2026";
 import { articulo as escapadasFinDeSemana } from "./escapadas-baratas-fin-de-semana";
 import { articulo as vuelosUltimaHora } from "./vuelos-baratos-ultima-hora";
 import { articulo as hotelesBaratosBarcelona } from "./hoteles-baratos-barcelona";
+import { articulo as escapadasBaratasGrecia } from "./escapadas-baratas-grecia";
+import { articulo as vuelosBaratosAmsterdam } from "./vuelos-baratos-amsterdam";
 
 export const blogPosts = [
   vuelosBaratosMadridRoma,
@@ -24,4 +26,6 @@ export const blogPosts = [
   escapadasFinDeSemana,
   vuelosUltimaHora,
   hotelesBaratosBarcelona,
+  escapadasBaratasGrecia,
+  vuelosBaratosAmsterdam,
 ];

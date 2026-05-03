@@ -67,6 +67,22 @@ export default function BlogPost() {
           <ul className="space-y-2">
             <li>
               <a
+                href="/blog/vuelos-baratos-amsterdam"
+                className="text-primary hover:underline"
+              >
+                🛫 Vuelos baratos a Ámsterdam
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog/escapadas-baratas-grecia"
+                className="text-primary hover:underline"
+              >
+                🇬🇷 Escapadas baratas a Grecia
+              </a>
+            </li>
+            <li>
+              <a
                 href="/blog/vuelos-baratos-ultima-hora"
                 className="text-primary hover:underline"
               >
