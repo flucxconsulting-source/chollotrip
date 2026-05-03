@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { Helmet } from "react-helmet-async";
 import { Link } from "react-router-dom";
 import { ArrowRight, TrendingDown, Zap, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -9,24 +9,17 @@ import heroImage from "@/assets/hero-travel.jpg";
 
 const Index = () => {
   const featuredDeals = deals.filter((d) => d.activo).slice(0, 6);
-  useEffect(() => {
-    document.title = "CholloTrip | Vuelos baratos, hoteles y escapadas al mejor precio";
-
-    let metaDescription = document.querySelector('meta[name="description"]');
-    if (!metaDescription) {
-      metaDescription = document.createElement("meta");
-      metaDescription.setAttribute("name", "description");
-      document.head.appendChild(metaDescription);
-    }
-
-    metaDescription.setAttribute(
-      "content",
-      "Encuentra vuelos baratos, hoteles económicos y escapadas low cost. En CholloTrip reunimos las mejores ofertas para viajar gastando menos."
-    );
-  }, []);
 
   return (
     <div className="min-h-screen">
+      <Helmet>
+        <title>CholloTrip | Vuelos baratos, hoteles y escapadas al mejor precio</title>
+        <meta name="description" content="Encuentra vuelos baratos, hoteles económicos y escapadas low cost. En CholloTrip reunimos las mejores ofertas para viajar gastando menos." />
+        <link rel="canonical" href="https://www.chollotrip.com/" />
+        <meta property="og:title" content="CholloTrip | Vuelos baratos, hoteles y escapadas al mejor precio" />
+        <meta property="og:description" content="Encuentra vuelos baratos, hoteles económicos y escapadas low cost. En CholloTrip reunimos las mejores ofertas para viajar gastando menos." />
+        <meta property="og:url" content="https://www.chollotrip.com/" />
+      </Helmet>
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div

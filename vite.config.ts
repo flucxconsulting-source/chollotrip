@@ -17,4 +17,8 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  ssr: {
+    // bundle estos paquetes CJS dentro del bundle SSR para que el ESM loader pueda importarlos
+    noExternal: ["react-helmet-async"],
+  },
 });

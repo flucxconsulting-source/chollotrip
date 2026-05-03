@@ -1,5 +1,3 @@
-import { createRoot } from "react-dom/client";
-import App from "./App.tsx";
-import "./index.css";
-
-createRoot(document.getElementById("root")!).render(<App />);
+// Deprecated: entrada antigua. La nueva entry es src/entry-client.tsx (configurada en index.html).
+// Se mantiene este fichero vacío para no romper referencias antiguas.
+export {};
