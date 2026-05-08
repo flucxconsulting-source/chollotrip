@@ -12,6 +12,26 @@
   ],
   "redirects": [
     {
+      "source": "/como-encontrar-vuelos",
+      "destination": "/blog/como-encontrar-vuelos-baratos",
+      "permanent": true
+    },
+    {
+      "source": "/hoteles-barcelona",
+      "destination": "/blog/hoteles-baratos-barcelona-centro",
+      "permanent": true
+    },
+    {
+      "source": "/viajes-ultima-hora",
+      "destination": "/blog/viajes-baratos-ultima-hora",
+      "permanent": true
+    },
+    {
+      "source": "/vuelos-estudiantes",
+      "destination": "/blog/vuelos-baratos-estudiantes-europa",
+      "permanent": true
+    },
+    {
       "source": "/:lang(en|de|fr|it)/:path*",
       "destination": "/",
       "permanent": true
