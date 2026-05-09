@@ -12,6 +12,10 @@ import { articulo as vuelosUltimaHora } from "./vuelos-baratos-ultima-hora";
 import { articulo as hotelesBaratosBarcelona } from "./hoteles-baratos-barcelona";
 import { articulo as escapadasBaratasGrecia } from "./escapadas-baratas-grecia";
 import { articulo as vuelosBaratosAmsterdam } from "./vuelos-baratos-amsterdam";
+import { articulo as hotelesBaratosBerlin } from "./hoteles-baratos-berlin";
+import { articulo as vuelosBaratosPortugal } from "./vuelos-baratos-portugal";
+import { articulo as escapadasBaratasCroacia } from "./escapadas-baratas-croacia";
+import { articulo as hotelesBaratosOporto } from "./hoteles-baratos-oporto";
 
 export const blogPosts = [
   vuelosBaratosMadridRoma,
@@ -28,4 +32,8 @@ export const blogPosts = [
   hotelesBaratosBarcelona,
   escapadasBaratasGrecia,
   vuelosBaratosAmsterdam,
+  hotelesBaratosBerlin,
+  vuelosBaratosPortugal,
+  escapadasBaratasCroacia,
+  hotelesBaratosOporto,
 ];

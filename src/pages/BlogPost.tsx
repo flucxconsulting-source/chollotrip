@@ -70,6 +70,10 @@ export default function BlogPost() {
           <h3 className="text-xl font-bold mb-4">Sigue explorando</h3>
 
           <ul className="space-y-2">
+            <li><a href="/blog/hoteles-baratos-oporto" className="text-primary hover:underline">🏨 Hoteles baratos en Oporto</a></li>
+            <li><a href="/blog/escapadas-baratas-croacia" className="text-primary hover:underline">🇭🇷 Escapadas baratas a Croacia</a></li>
+            <li><a href="/blog/vuelos-baratos-portugal" className="text-primary hover:underline">🇵🇹 Vuelos baratos a Portugal</a></li>
+            <li><a href="/blog/hoteles-baratos-berlin" className="text-primary hover:underline">🏨 Hoteles baratos en Berlín</a></li>
             <li><a href="/blog/vuelos-baratos-amsterdam" className="text-primary hover:underline">🛫 Vuelos baratos a Ámsterdam</a></li>
             <li><a href="/blog/escapadas-baratas-grecia" className="text-primary hover:underline">🇬🇷 Escapadas baratas a Grecia</a></li>
             <li><a href="/blog/vuelos-baratos-ultima-hora" className="text-primary hover:underline">⏰ Vuelos baratos última hora</a></li>
