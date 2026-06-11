@@ -29,6 +29,8 @@ export const articulo = {
       <a href="/blog/como-encontrar-vuelos-baratos">cómo encontrar vuelos baratos</a>.
     Y si todavía no tienes destino, échale un ojo a los
       <a href="/blog/mejores-destinos-baratos-europa-2026">mejores destinos baratos en Europa para 2026</a>.</p>
+    <p>Y si tienes claro que quieres una capital con encanto, mira nuestra guía de
+      <a href="/blog/vuelos-baratos-paris">vuelos baratos a París desde España</a>.</p>
 
     <p><strong>Encuentra ahora las mejores ofertas de vuelos baratos en Europa.</strong></p>
   `,

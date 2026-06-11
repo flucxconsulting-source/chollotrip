@@ -16,7 +16,8 @@ export function render(url: string) {
   const head =
     (helmet?.title?.toString?.() ?? "") +
     (helmet?.meta?.toString?.() ?? "") +
-    (helmet?.link?.toString?.() ?? "");
+    (helmet?.link?.toString?.() ?? "") +
+    (helmet?.script?.toString?.() ?? "");
   return { html, head };
 }
 

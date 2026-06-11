@@ -34,6 +34,7 @@ export default function BlogPost() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.title} />
         <meta name="twitter:description" content={post.description} />
+              <script type="application/ld+json">{JSON.stringify({"@context":"https://schema.org","@type":"Article","headline":post.title,"description":post.description,"datePublished":post.date,"dateModified":post.date,"mainEntityOfPage":canonical,"author":{"@type":"Organization","name":"CholloTrip","url":"https://www.chollotrip.com"},"publisher":{"@type":"Organization","name":"CholloTrip","url":"https://www.chollotrip.com"}})}</script>
       </Helmet>
 
       <article className="space-y-6">
@@ -70,6 +71,7 @@ export default function BlogPost() {
           <h3 className="text-xl font-bold mb-4">Sigue explorando</h3>
 
           <ul className="space-y-2">
+            <li><a href="/blog/vuelos-baratos-paris" className="text-primary hover:underline">✈️ Vuelos baratos a París</a></li>
             <li><a href="/blog/hoteles-baratos-oporto" className="text-primary hover:underline">🏨 Hoteles baratos en Oporto</a></li>
             <li><a href="/blog/escapadas-baratas-croacia" className="text-primary hover:underline">🇭🇷 Escapadas baratas a Croacia</a></li>
             <li><a href="/blog/vuelos-baratos-portugal" className="text-primary hover:underline">🇵🇹 Vuelos baratos a Portugal</a></li>

@@ -80,6 +80,9 @@ export const articulo = {
       <a href="/blog/mejores-destinos-baratos-europa-2026">mejores destinos baratos en Europa para 2026</a>
     para encontrar inspiración con vuelos low cost.</p>
 
+    <p>Y para un destino concreto muy buscado, revisa cómo conseguir
+      <a href="/blog/vuelos-baratos-paris">vuelos baratos a París desde España</a>.</p>
+
     <h2>Conclusión</h2>
     <p>Saber <strong>cómo encontrar vuelos baratos</strong> no es complicado si aplicas una estrategia clara.</p>
 
