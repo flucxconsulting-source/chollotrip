@@ -1,4 +1,5 @@
 import { articulo as vuelosBaratosParis } from "./vuelos-baratos-paris";
+import { articulo as vuelosBaratosLondres } from "./vuelos-baratos-londres";
 import { articulo as vuelosBaratosMadridRoma } from "./vuelos-baratos-madrid-roma";
 import { articulo as hotelesBarcelona } from "./hoteles-baratos-barcelona-centro";
 import { articulo as viajesUltimaHora } from "./viajes-baratos-ultima-hora";
@@ -20,6 +21,7 @@ import { articulo as hotelesBaratosOporto } from "./hoteles-baratos-oporto";
 
 export const blogPosts = [
   vuelosBaratosParis,
+  vuelosBaratosLondres,
   vuelosBaratosMadridRoma,
   hotelesBarcelona,
   viajesUltimaHora,
