@@ -33,6 +33,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/hoteles-baratos-paris">Hoteles baratos en París</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/hoteles-baratos-madrid-2026">Hoteles baratos en Madrid 2026</a></li>
       <li><a href="/blog/mejores-destinos-baratos-europa-2026">Mejores destinos baratos en Europa 2026</a></li>
