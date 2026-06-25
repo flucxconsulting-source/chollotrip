@@ -45,6 +45,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/escapada-praga-vuelo-hotel">Escapada barata a Praga: vuelo + hotel</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/vuelos-baratos-europa-2026">Vuelos baratos por Europa 2026</a></li>
       <li><a href="/blog/escapadas-baratas-fin-de-semana">Escapadas baratas de fin de semana</a></li>
