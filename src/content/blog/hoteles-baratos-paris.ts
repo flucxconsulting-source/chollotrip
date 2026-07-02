@@ -84,6 +84,7 @@ export const articulo = {
     <h2>Guías relacionadas</h2>
     <ul>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
+      <li><a href="/blog/hoteles-baratos-londres">Hoteles baratos en Londres</a></li>
       <li><a href="/blog/vuelos-baratos-paris">Vuelos baratos a París desde España</a></li>
       <li><a href="/blog/hoteles-baratos-berlin">Hoteles baratos en Berlín</a></li>
     </ul>
