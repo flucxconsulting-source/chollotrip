@@ -113,6 +113,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-budapest">Vuelos baratos a Budapest desde España</a></li>
       <li><a href="/blog/vuelos-baratos-praga">Vuelos baratos a Praga desde España</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/escapadas-baratas-fin-de-semana">Escapadas baratas de fin de semana</a></li>
