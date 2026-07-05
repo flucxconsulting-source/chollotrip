@@ -108,6 +108,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-viena">Vuelos baratos a Viena desde España</a></li>
       <li><a href="/blog/vuelos-baratos-praga">Vuelos baratos a Praga desde España</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/vuelos-baratos-roma-desde-espana">Vuelos baratos a Roma desde España</a></li>
