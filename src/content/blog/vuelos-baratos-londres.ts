@@ -113,6 +113,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-dublin">Vuelos baratos a Dublín desde España</a></li>
       <li><a href="/blog/vuelos-baratos-milan">Vuelos baratos a Milán desde España</a></li>
       <li><a href="/blog/hoteles-baratos-londres">Hoteles baratos en Londres</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
