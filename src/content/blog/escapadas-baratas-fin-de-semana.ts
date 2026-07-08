@@ -110,6 +110,7 @@ export const articulo = {
     <h2>Guías relacionadas</h2>
     <p>Para preparar mejor tu escapada, te recomendamos:</p>
     <ul>
+      <li><a href="/blog/equipaje-mano-low-cost">Equipaje de mano en aerolíneas low cost</a></li>
       <li><a href="/blog/escapada-praga-vuelo-hotel">Escapada barata a Praga: vuelo + hotel</a></li>
       <li><a href="/blog/vuelos-baratos-europa-2026">Vuelos baratos por Europa en 2026</a></li>
       <li><a href="/blog/hoteles-baratos-madrid-2026">Hoteles baratos en Madrid 2026</a></li>
