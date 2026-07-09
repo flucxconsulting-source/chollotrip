@@ -29,6 +29,7 @@ import { articulo as vuelosBaratosViena } from "./vuelos-baratos-viena";
 import { articulo as hotelesBaratosPraga } from "./hoteles-baratos-praga";
 import { articulo as vuelosBaratosDublin } from "./vuelos-baratos-dublin";
 import { articulo as equipajeManoLowCost } from "./equipaje-mano-low-cost";
+import { articulo as vuelosBaratosEdimburgo } from "./vuelos-baratos-edimburgo";
 
 export const blogPosts = [
   vuelosBaratosParis,
@@ -62,4 +63,5 @@ export const blogPosts = [
   hotelesBaratosPraga,
   vuelosBaratosDublin,
   equipajeManoLowCost,
+  vuelosBaratosEdimburgo,
 ];
