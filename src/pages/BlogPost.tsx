@@ -71,6 +71,7 @@ export default function BlogPost() {
           <h3 className="text-xl font-bold mb-4">Sigue explorando</h3>
 
           <ul className="space-y-2">
+            <li><a href="/blog/hoteles-baratos-budapest" className="text-primary hover:underline">🏨 Hoteles baratos en Budapest</a></li>
             <li><a href="/blog/vuelos-baratos-edimburgo" className="text-primary hover:underline">✈️ Vuelos baratos a Edimburgo</a></li>
             <li><a href="/blog/equipaje-mano-low-cost" className="text-primary hover:underline">🧳 Equipaje de mano en aerolíneas low cost</a></li>
             <li><a href="/blog/vuelos-baratos-dublin" className="text-primary hover:underline">✈️ Vuelos baratos a Dublín</a></li>
