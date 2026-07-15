@@ -39,6 +39,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-bruselas">Vuelos baratos a Bruselas desde España</a></li>
       <li><a href="/blog/vuelos-baratos-milan">Vuelos baratos a Milán desde España</a></li>
       <li><a href="/blog/vuelos-baratos-londres">Vuelos baratos a Londres desde España</a></li>
       <li><a href="/blog/vuelos-baratos-paris">Vuelos baratos a París desde España</a></li>
