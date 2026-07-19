@@ -70,6 +70,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-copenhague">Vuelos baratos a Copenhague desde España</a></li>
       <li><a href="/blog/vuelos-baratos-bruselas">Vuelos baratos a Bruselas desde España</a></li>
       <li><a href="/blog/vuelos-baratos-edimburgo">Vuelos baratos a Edimburgo desde España</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
