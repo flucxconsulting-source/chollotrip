@@ -71,6 +71,7 @@ export default function BlogPost() {
           <h3 className="text-xl font-bold mb-4">Sigue explorando</h3>
 
           <ul className="space-y-2">
+            <li><a href="/blog/vuelos-baratos-desde-malaga" className="text-primary hover:underline">✈️ Vuelos baratos desde Málaga</a></li>
             <li><a href="/blog/hoteles-baratos-viena" className="text-primary hover:underline">🏨 Hoteles baratos en Viena</a></li>
             <li><a href="/blog/vuelos-baratos-copenhague" className="text-primary hover:underline">✈️ Vuelos baratos a Copenhague</a></li>
                 <li><a href="/blog/escapada-budapest-vuelo-hotel" className="text-primary hover:underline">🗺️ Escapada barata a Budapest</a></li>

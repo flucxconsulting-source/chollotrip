@@ -107,6 +107,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-desde-malaga">Vuelos baratos desde Málaga a Europa</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/vuelos-baratos-amsterdam">Vuelos baratos a Ámsterdam desde España</a></li>
       <li><a href="/blog/equipaje-mano-low-cost">Equipaje de mano en aerolíneas low cost</a></li>
