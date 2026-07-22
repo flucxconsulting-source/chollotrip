@@ -36,6 +36,7 @@ import { articulo as escapadaBudapestVueloHotel } from "./escapada-budapest-vuel
 import { articulo as vuelosBaratosCopenhague } from "./vuelos-baratos-copenhague";
 import { articulo as hotelesBaratosViena } from "./hoteles-baratos-viena";
 import { articulo as vuelosBaratosDesdeMalaga } from "./vuelos-baratos-desde-malaga";
+import { articulo as hotelesBaratosSevilla } from "./hoteles-baratos-sevilla";
 
 export const blogPosts = [
   vuelosBaratosParis,
@@ -76,4 +77,5 @@ export const blogPosts = [
   vuelosBaratosCopenhague,
   hotelesBaratosViena,
   vuelosBaratosDesdeMalaga,
+  hotelesBaratosSevilla,
 ];

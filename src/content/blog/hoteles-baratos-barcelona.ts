@@ -50,6 +50,7 @@ export const articulo = {
     <h2>Guías relacionadas</h2>
     <p>Para preparar mejor tu viaje a Barcelona, te recomendamos:</p>
     <ul>
+      <li><a href="/blog/hoteles-baratos-sevilla">Hoteles baratos en Sevilla</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos: guía completa</a></li>
       <li><a href="/blog/hoteles-baratos-madrid-2026">Hoteles baratos en Madrid 2026</a></li>
       <li><a href="/blog/hoteles-baratos-barcelona-centro">Hoteles baratos en Barcelona centro</a></li>
