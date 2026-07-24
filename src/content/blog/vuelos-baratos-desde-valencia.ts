@@ -106,6 +106,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/hoteles-baratos-valencia">Hoteles baratos en Valencia</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos</a></li>
       <li><a href="/blog/vuelos-baratos-desde-malaga">Vuelos baratos desde Málaga a Europa</a></li>
       <li><a href="/blog/vuelos-baratos-europa-2026">Vuelos baratos por Europa en 2026</a></li>
