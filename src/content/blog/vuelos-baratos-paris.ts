@@ -104,6 +104,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/aeropuertos-secundarios-europa-baratos">Aeropuertos secundarios en Europa para volar más barato</a></li>
       <li><a href="/blog/escapada-paris-vuelo-hotel">Escapada barata a París: vuelo + hotel</a></li>
       <li><a href="/blog/vuelos-baratos-milan">Vuelos baratos a Milán desde España</a></li>
       <li><a href="/blog/hoteles-baratos-paris">Hoteles baratos en París</a></li>

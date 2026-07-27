@@ -41,6 +41,7 @@ import { articulo as vuelosBaratosDesdeValencia } from "./vuelos-baratos-desde-v
 import { articulo as hotelesBaratosValencia } from "./hoteles-baratos-valencia";
 import { articulo as escapadaVeneciaVueloHotel } from "./escapada-venecia-vuelo-hotel";
 import { articulo as hotelesBaratosMalaga } from "./hoteles-baratos-malaga";
+import { articulo as aeropuertosSecundarios } from "./aeropuertos-secundarios-europa-baratos";
 
 export const blogPosts = [
   vuelosBaratosParis,
@@ -86,4 +87,5 @@ export const blogPosts = [
   hotelesBaratosValencia,
   escapadaVeneciaVueloHotel,
   hotelesBaratosMalaga,
+  aeropuertosSecundarios,
 ];
