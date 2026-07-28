@@ -70,6 +70,7 @@ export const articulo = {
 
     <h2>Guías relacionadas</h2>
     <ul>
+      <li><a href="/blog/vuelos-baratos-verano-2026">Vuelos baratos en verano 2026</a></li>
       <li><a href="/blog/aeropuertos-secundarios-europa-baratos">Aeropuertos secundarios en Europa para volar más barato</a></li>
       <li><a href="/blog/vuelos-baratos-desde-valencia">Vuelos baratos desde Valencia a Europa</a></li>
       <li><a href="/blog/vuelos-baratos-desde-malaga">Vuelos baratos desde Málaga a Europa</a></li>

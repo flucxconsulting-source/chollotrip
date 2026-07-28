@@ -42,6 +42,7 @@ export const articulo = {
     <h2>Guías relacionadas</h2>
     <p>Para sacarle más partido a tus búsquedas, te recomendamos:</p>
     <ul>
+      <li><a href="/blog/vuelos-baratos-verano-2026">Vuelos baratos en verano 2026</a></li>
       <li><a href="/blog/vuelos-baratos-londres">Vuelos baratos a Londres desde España</a></li>
       <li><a href="/blog/como-encontrar-vuelos-baratos">Cómo encontrar vuelos baratos: guía completa</a></li>
       <li><a href="/blog/viajes-baratos-ultima-hora">Viajes baratos de última hora</a></li>
